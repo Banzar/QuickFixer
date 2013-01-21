@@ -1,0 +1,8 @@
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\QuickFixer.MainForm.resources
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\bin\Debug\QuickFixer.exe
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\bin\Debug\QuickFixer.pdb
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\QuickFixer.exe
+C:\Users\lucky\Documents\SharpDevelop Projects\QuickFixer\QuickFixer\obj\x86\Debug\QuickFixer.pdb
